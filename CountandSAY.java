@@ -30,7 +30,6 @@ public class CountandSAY {
             return s;
         }
         
-// main method
     public static void main(String[] args)  {
             
             CountandSAY obj = new CountandSAY();
